@@ -1,6 +1,5 @@
 # granulemeta
 
-edit
 
 This code was orginally created as a file-level metadata extraction tool for use by the ORNL DAAC. The update to version 3 represents a complete refactoring in the approach taken by the prior version of ORNL DAAC's file level metadata extraction tool. The refactoring of the code put an emphasis on making the codebase more maintainable and extensible while making the code's execution more consistently stable and yet more flexible in how the code could be utilized by the end-user.
 
